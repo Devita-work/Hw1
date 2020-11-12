@@ -1,0 +1,13 @@
+C:\Users\vitas\source\repos\Mainsource\Hm1\bin\Debug\netcoreapp3.1\Hm1.exe
+C:\Users\vitas\source\repos\Mainsource\Hm1\bin\Debug\netcoreapp3.1\Hm1.deps.json
+C:\Users\vitas\source\repos\Mainsource\Hm1\bin\Debug\netcoreapp3.1\Hm1.runtimeconfig.json
+C:\Users\vitas\source\repos\Mainsource\Hm1\bin\Debug\netcoreapp3.1\Hm1.runtimeconfig.dev.json
+C:\Users\vitas\source\repos\Mainsource\Hm1\bin\Debug\netcoreapp3.1\Hm1.dll
+C:\Users\vitas\source\repos\Mainsource\Hm1\bin\Debug\netcoreapp3.1\Hm1.pdb
+C:\Users\vitas\source\repos\Mainsource\Hm1\obj\Debug\netcoreapp3.1\Hm1.csprojAssemblyReference.cache
+C:\Users\vitas\source\repos\Mainsource\Hm1\obj\Debug\netcoreapp3.1\Hm1.AssemblyInfoInputs.cache
+C:\Users\vitas\source\repos\Mainsource\Hm1\obj\Debug\netcoreapp3.1\Hm1.AssemblyInfo.cs
+C:\Users\vitas\source\repos\Mainsource\Hm1\obj\Debug\netcoreapp3.1\Hm1.csproj.CoreCompileInputs.cache
+C:\Users\vitas\source\repos\Mainsource\Hm1\obj\Debug\netcoreapp3.1\Hm1.dll
+C:\Users\vitas\source\repos\Mainsource\Hm1\obj\Debug\netcoreapp3.1\Hm1.pdb
+C:\Users\vitas\source\repos\Mainsource\Hm1\obj\Debug\netcoreapp3.1\Hm1.genruntimeconfig.cache
